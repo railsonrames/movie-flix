@@ -1,4 +1,3 @@
-```markdown
 # Movieflix - Academic Netflix Clone in Angular
 
 This project, **Movieflix**, is an academic clone of the popular streaming service Netflix. Developed as a proof of concept and for learning the Angular technology (version 19.2.8), Movieflix aims to replicate some of the functionalities and the interface of Netflix, offering a simulated movie and series viewing experience.
